@@ -4,16 +4,15 @@ a{
     font-weight: 630;
     padding: 15px;
 }
-.nav-bar{
-    display: flex;
-    
-   
+.bg-colour{
+    background-color: #fcf0f8dc;
 }
-.nav-bar img{
+.logo-width img{
     width: 360px;
 }
-.nav-right{
-    margin-left: 370px;
+.nav-left{
+  margin-left: 350px;
+
 }
 .text-highlight
 {
@@ -32,4 +31,39 @@ h1{
 }
 .font-style{
     font-size: 40px;
+}
+.image-resize-1 img{
+    height: 230px;
+    width: 230px;
+}
+.image-padding{
+    padding: 15px;
+    border-radius: 1em;
+    border: none;
+   
+    
+}
+.image-resize-1, .image-resize-2, .border-design{
+    border-radius: 1em;
+}
+.image-resize-2 img{
+    height: 230px;
+    width: 170px;
+}
+.icon-width img{
+    width: 90px;
+}
+.border-design{
+    padding: 20px;
+}
+.top-margin{
+    margin-top: 100px;
+}
+.slide-background{
+    background-color: #d7e7e9;
+}
+.image-resize-slide img{
+
+    width: 350px;
+    height: 400px;
 }
