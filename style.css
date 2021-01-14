@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 630;
+    padding: 15px;
+}
+.nav-bar{
+    display: flex;
+    
+   
+}
+.nav-bar img{
+    width: 360px;
+}
+.nav-right{
+    margin-left: 370px;
+}
+.text-highlight
+{
+    color:#fcbe4a;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 67px;
+}
+.custom-btn{
+    background-color: #93c52e;
+    padding: 16px 35px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.font-style{
+    font-size: 40px;
+}
